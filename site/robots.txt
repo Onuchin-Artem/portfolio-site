@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onuchin-artem.github.io/portfolio-site/sitemap.xml
